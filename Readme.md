@@ -4,7 +4,7 @@ About Dataset
 Overview
 The Plant Pathogen Classification Dataset comprises a diverse collection of images depicting various plant diseases caused by pathogens such as fungi, bacteria, viruses, pests and seperate class of healthy leaves. Each image in the dataset is storedwith the corresponding disease type, providing valuable information for researchers and practitioners in plant pathology and agriculture.
 
-Dataset Composition
+<code>Dataset Composition</code>
 The dataset contains high-resolution images captured under different lighting conditions and perspectives, showcasing symptoms of plant diseases across multiple plant species.
 
 Key Features
